@@ -8,7 +8,7 @@ import {
     FaTwitter,
     FaInstagram,
     FaLinkedinIn,
-    FaPinterest,
+    FaPinterest, 
     FaCartPlus,
 } from "react-icons/fa";
 import "./SingleProduct.scss";
