@@ -7,7 +7,7 @@ const Category = () => {
     const { data } = useFetch(
         `/api/products?populate=*&[filters][categories][id]=${id}`
     );
-    return (
+    return ( 
         <div className="category-main-content">
             <div className="layout">
                 <div className="category-title">
